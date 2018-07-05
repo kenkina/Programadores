@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "844086747430",
+    "firebase_url": "https://pc2programadores-724ef.firebaseio.com",
+    "project_id": "pc2programadores-724ef",
+    "storage_bucket": "pc2programadores-724ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844086747430:android:2fa07995ec018bce",
+        "android_client_info": {
+          "package_name": "com.example.kenkina.pc2programadores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844086747430-6d06ahhlu2s5ik3qpa0rptaeev0eolec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kenkina.pc2programadores",
+            "certificate_hash": "008c6f5d7f8d57bd67e970782659f56879931e97"
+          }
+        },
+        {
+          "client_id": "844086747430-e3ugkibkuhfu3raoumh5ks1nmq7cdnqi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "844086747430-e3ugkibkuhfu3raoumh5ks1nmq7cdnqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRC8jRxzFjk8lRfT8-05TWuC-_b1w5WA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844086747430-e3ugkibkuhfu3raoumh5ks1nmq7cdnqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

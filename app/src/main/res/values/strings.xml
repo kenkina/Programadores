@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PC2 Developers</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_new_developer">New Developer</string>
+</resources>
